@@ -1,0 +1,33 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+
+# Environment variables and credentials
+.env
+.env.*
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# pytest cache
+.pytest_cache/
+
+# Ignore all virtual environments EXCEPT .venv
+venv/
+env/
+ENV/
